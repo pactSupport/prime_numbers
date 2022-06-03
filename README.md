@@ -1,2 +1,2 @@
 # prime_numbers
- Prime numbers algorithm
+ Prime numbers algorithm by Internet
